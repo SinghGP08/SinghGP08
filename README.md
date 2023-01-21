@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **Machine Learning algorithms, Python, SQL**
 
-- 📫 How to reach me **
+- 📫 How to reach me ** 
 
 - 📄 Know about my experiences [I am currently working with.]
 
